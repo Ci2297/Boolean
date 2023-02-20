@@ -1,0 +1,66 @@
+.contenitore{
+  width: 1200px;
+  margin: auto;
+}
+
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+.logo-text{
+  display: inline-block;
+  margin: 0%;
+  color: white;
+}
+
+.logo{
+  width: 150px;
+}
+
+.text-unread{
+  color: white;
+}
+
+.number{
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.tab-section-read{
+  background-color: lightgray;
+  border-color: black;
+  border-style: solid;
+}
+
+.tab-section-unread{
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+}
+
+.text-object{
+  width: 30%;
+  display: inline-block;
+}
+
+.text-content{
+  display: inline-block;
+  width: 64%;
+}
+
+.end{
+  color: white;
+  font-size: 40px;
+  display: inline-block;
+}
+
+.end2{
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.end-box{
+  text-align: center
+}
