@@ -1,0 +1,15 @@
+header{
+  text-align: center;
+  background-color: lightgray;
+}
+
+.hr{
+  color: orange;
+  border-style: solid;
+  height: 1px;
+  background-color: orange;
+}
+
+h2{
+  color: orange;
+}
